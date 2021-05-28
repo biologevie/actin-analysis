@@ -1,5 +1,5 @@
 %set parameters for simulation
-imageMode = 'SRRF'; %set image mode from SRRF, 3D SIM, TIRF SIM, TIRF
+imageMode = 'SRRF'; %set image mode from SRRF, 3D SIM, TIRF
 numFil = 25; %number of mother filaments
 L =10000; %filament length in nm
 %PSFs are ESTIMATES and relative to pixel size, not nm
