@@ -17,11 +17,6 @@ switch imageMode
         sizeI = 10020;
         bin = 310;
         psf = 3.2;
-        
-    case 'TIRF SIM'
-        sizeI = 10020;
-        bin = 310;
-        psf = 3.2;
     case 'TIRF'
         sizeI = 10020;
         bin = 155;
